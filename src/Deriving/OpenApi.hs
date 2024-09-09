@@ -33,6 +33,7 @@ module Deriving.OpenApi
     DatatypeNameModifier,
     ToSchema,
     module Deriving.Aeson,
+    OpenApiOptionModifier(..),
   )
 where
 
